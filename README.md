@@ -1,9 +1,4 @@
 
-### Hi there! 
-
-I am Flow !!
-
-
 
 ### Skills
 
@@ -19,3 +14,7 @@ I am Flow !!
 ### Top Languages 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flowdevlol&show_icons=true&theme=radical)
+
+### Hi there! 
+
+I am Flow !!
