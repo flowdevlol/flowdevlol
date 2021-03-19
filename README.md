@@ -3,8 +3,6 @@
 ### Skills
 
 - Lua (learning)
-- JavaScript (some)
-- Node.js (some)
 - Python
 
 ### Github stats
