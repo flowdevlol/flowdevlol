@@ -8,7 +8,7 @@ I am Flow and learning programming in lua, python js, node.js
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=flowdevlol"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flowdevlol&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flowdevlol&layout=compact"/>
 </a>
 
 
