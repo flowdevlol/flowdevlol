@@ -11,5 +11,4 @@ I am Flow and learning programming in lua, python js, node.js
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flowdevlol&layout=compact" />
 </a>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
