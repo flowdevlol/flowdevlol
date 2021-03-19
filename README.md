@@ -6,4 +6,4 @@ I am Flow and learning programming in lua, python js, node.js
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flowdevlol&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?flowdevlol=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?flowdevlol=flowdevlol)](https://github.com/anuraghazra/github-readme-stats)
